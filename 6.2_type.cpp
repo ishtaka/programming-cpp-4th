@@ -51,6 +51,7 @@ void f2_5(int *p) {
 }
 
 void execute2() {
+    std::cout << "-----6.2.2 bool data type-----" << std::endl;
     f2_1(1, 1); // true
     f2_1(1, 2); // false
 
@@ -120,6 +121,7 @@ void f3_4() {
 }
 
 void execute3() {
+    std::cout << "-----6.2.3 string data type-----" << std::endl;
     intval();
     digits();
 
@@ -132,6 +134,7 @@ void execute3() {
 //===--------------------------------------------------------------===//
 
 void execute4() {
+    std::cout << "-----6.2.4 numeric data type-----" << std::endl;
     std::cout << "size of long " << sizeof(1L) << std::endl;
     std::cout << "size of long long " << sizeof(1LL) << std::endl;
 
