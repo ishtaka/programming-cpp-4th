@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 6.3_declaration.cpp)
+add_executable(programming_cpp_4th 7.2_pointer.cpp)
