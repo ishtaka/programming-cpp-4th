@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 7.4_pointer_inside_of_array.cpp)
+add_executable(programming_cpp_4th 7.5_pointer_with_const.cpp)
