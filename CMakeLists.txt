@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 7.7_reference.cpp)
+add_executable(programming_cpp_4th 8.2_struct.cpp)
