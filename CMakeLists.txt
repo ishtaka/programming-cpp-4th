@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 9.4_selection_statement.cpp)
+add_executable(programming_cpp_4th 9.5_loop_statement.cpp)
