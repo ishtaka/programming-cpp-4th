@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 8.4_enum.cpp)
+add_executable(programming_cpp_4th 9.6_goto_statement.cpp)
