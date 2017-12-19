@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 12.1_declaring_functions.cpp)
+add_executable(programming_cpp_4th 12.2_argument.cpp)
