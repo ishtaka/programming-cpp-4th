@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 13.2_exception_safe.cpp)
+add_executable(programming_cpp_4th 13.3_resource_management.cpp)
