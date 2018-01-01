@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 13.5_exception_throwing_and_catching.cpp)
+add_executable(programming_cpp_4th 14.2_namespace.cpp)
