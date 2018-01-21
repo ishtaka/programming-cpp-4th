@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 16.2_basic_of_class.cpp)
+add_executable(programming_cpp_4th 16.3_concrete_class.cpp)
