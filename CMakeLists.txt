@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 17.5_copy_and_move.cpp)
+add_executable(programming_cpp_4th 17.6_generating_default_operations.cpp)
