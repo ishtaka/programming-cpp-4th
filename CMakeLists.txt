@@ -3,4 +3,4 @@ project(programming_cpp_4th)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(programming_cpp_4th 20.2_derived_classes.cpp)
+add_executable(programming_cpp_4th 20.3_class_hierarchies.cpp)
